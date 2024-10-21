@@ -1,35 +1,6 @@
 {
     "users": [
-      {
-        "firstname": "Aniket",
-        "middlename": "Thapa",
-        "lastname": "Tamrakar",
-        "email": "anikettamrakar0@gmail.com",
-        "phone": "9805674141",
-        "address": "Nepal",
-        "emergencyContactNumber": "9805674141",
-        "emergencyContactName": "Aniket Tamrakar",
-        "dateOfBirth": "2024-08-04",
-        "gender": "Female",
-        "designation": "Trial-Member",
-        "joindate": "2024-07-06",
-        "enddate": "1 Month",
-        "height": 1,
-        "weight": 1,
-        "hips": 1,
-        "chest": 1,
-        "waist": 1,
-        "thigh": 1,
-        "allergies": "",
-        "medicalCondition": "",
-        "bloodGroup": "A+",
-        "paymentStatus": "Overdue",
-        "id": "3ae63291-0009-4445-9c74-15cc6598ec9d",
-        "streak": 0,
-        "lastattendance": null,
-        "profile": "https://avataaars.io/?accessoriesType=Sunglasses&avatarStyle=Circle&clotheColor=Gray01&clotheType=ShirtScoopNeck&eyeType=Wink&eyebrowType=UpDown&facialHairColor=Brown&facialHairType=BeardMedium&hairColor=BrownDark&hatColor=Gray01&mouthType=Default&skinColor=Black&topType=LongHairCurvy",
-        "end_date": "2024-08-28"
-      }
+     
     ],
     "workouts": [],
     "shop": [
